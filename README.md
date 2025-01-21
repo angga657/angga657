@@ -2,4 +2,4 @@
 
 ## Hello, it's me Anggasena! 👋
 
-I'am Programmer, Nice To meet you!!
+I'm Programmer, Nice To meet you!!
